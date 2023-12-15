@@ -1,0 +1,18 @@
+.container{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    border : 2px solid rgb(207, 168, 168);
+    width: 90%;
+    margin: 2px auto;
+    padding: 3px;
+    border-radius: 46px;
+    background: #f5e0e0;
+    box-shadow:  31px 31px 63px #d0bebe,
+             -31px -31px 63px #ffffff;
+}
+.sub-container{
+    /* border: 2px solid green; */
+    padding: 2px;
+    margin: 2px;
+}
